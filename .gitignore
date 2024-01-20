@@ -1,0 +1,11 @@
+*.conf
+.env
+*/hide/*
+*/local*
+*.sql
+.DS_Store
+*.h.md
+
+*/**/node_modules
+
+environment

@@ -1,0 +1,1 @@
+This directory contains little `make` command programs written to assist with daily management of your local `notes` repo
