@@ -1,6 +1,6 @@
 # notes
 
-I simple string templating tool I built using PHP and markdown for tracking my hours and progress on various projects.
+A simple string templating tool I built using PHP and markdown for tracking my hours and progress on various projects.
 
 | Command           | Description                                                             |
 | ----------------- | ----------------------------------------------------------------------- |
